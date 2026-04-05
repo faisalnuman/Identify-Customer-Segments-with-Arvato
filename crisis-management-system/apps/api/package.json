@@ -1,0 +1,10 @@
+{
+  "name": "@cms/api",
+  "private": true,
+  "scripts": {
+    "dev": "nest start --watch",
+    "build": "nest build",
+    "lint": "echo 'lint placeholder for api'",
+    "test": "echo 'test placeholder for api'"
+  }
+}

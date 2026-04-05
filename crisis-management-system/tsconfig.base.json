@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "strict": true,
+    "skipLibCheck": true,
+    "baseUrl": ".",
+    "paths": {
+      "@cms/types": ["packages/types/src"],
+      "@cms/ui": ["packages/ui/src"],
+      "@cms/config": ["packages/config/index.ts"]
+    }
+  }
+}
