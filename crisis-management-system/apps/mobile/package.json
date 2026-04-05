@@ -1,0 +1,10 @@
+{
+  "name": "@cms/mobile",
+  "private": true,
+  "scripts": {
+    "dev": "expo start",
+    "build": "echo 'expo build profile placeholder'",
+    "lint": "echo 'lint placeholder for mobile'",
+    "test": "echo 'test placeholder for mobile'"
+  }
+}

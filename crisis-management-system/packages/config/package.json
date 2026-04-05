@@ -1,0 +1,11 @@
+{
+  "name": "@cms/config",
+  "private": true,
+  "version": "0.1.0",
+  "main": "index.ts",
+  "scripts": {
+    "lint": "echo 'lint placeholder for config'",
+    "test": "echo 'test placeholder for config'",
+    "build": "echo 'build placeholder for config'"
+  }
+}
